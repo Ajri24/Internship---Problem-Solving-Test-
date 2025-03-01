@@ -26,12 +26,5 @@ Setelah iterasi:
     Jika stack kosong, return "YES", artinya semua bracket telah dipasangkan.
   
     Jika stack masih berisi elemen, return "NO", artinya ada bracket buka yang tidak memiliki pasangan.
-  
 
-
-Kompleksitas Waktu & Ruang:
-
-  Waktu: O(N) → Setiap karakter hanya diproses sekali (push/pop stack).
-
-  Ruang: O(N) → Dalam kasus terburuk, semua bracket buka masuk ke stack sebelum diproses.
 
