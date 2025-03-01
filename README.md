@@ -1,4 +1,7 @@
 # Internship---Problem-Solving-Test-
+Nama Ajri Inda Robby
+
+Internship - Problem Solving Test SE (BE)
 
 Penjelasan Kode Soal no 3:
 
