@@ -1,6 +1,7 @@
 # Internship---Problem-Solving-Test-
 
-Penjelasan Kode:
+Penjelasan Kode Soal no 3:
+
 Menggunakan stack []rune{} untuk menyimpan bracket buka.
 Memanfaatkan map[rune]rune untuk mencocokkan bracket tutup dengan pasangan yang benar.
 Iterasi string:
